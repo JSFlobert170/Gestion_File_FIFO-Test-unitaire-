@@ -1,4 +1,4 @@
-// TP Partie 1 : Gestion de file FIFO, Flobert JOHNSON 3eme Bachelor CDA option Full Stack
+// Gestion de file FIFO, Flobert JOHNSON 3eme Bachelor CDA option Full Stack
 package Junit;
 import java.util.*;
 
