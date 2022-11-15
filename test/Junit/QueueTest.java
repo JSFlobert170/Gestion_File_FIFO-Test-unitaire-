@@ -1,9 +1,7 @@
 // TP Partie 1 : Gestion de file FIFO, Flobert JOHNSON 3eme Bachelor CDA option Full Stack
-package tpJunit;
+package Junit;
 import java.util.*;
-
 import static org.junit.jupiter.api.Assertions.*;
-
 import org.junit.jupiter.api.Test;
 
 class QueueTest {
@@ -125,7 +123,7 @@ class QueueTest {
 	        assertEquals(9, GrandeValeur);   
   		}
 		catch(Exception e) {
-    		System.out.print("Désolé la valeur saisie n'est pas un nombre.");
+    		System.out.print("Dï¿½solï¿½ la valeur saisie n'est pas un nombre.");
 		}
 	}
 	

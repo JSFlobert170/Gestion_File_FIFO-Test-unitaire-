@@ -1,5 +1,5 @@
 // TP Partie 1 : Gestion de file FIFO, Flobert JOHNSON 3eme Bachelor CDA option Full Stack
-package tpJunit;
+package Junit;
 import java.util.*;
 
 public class Queue {
